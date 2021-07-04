@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem_ipsum_dolor_sit_amet_eu_diam_scripta_facilis_usu._Vim_erat_persequeris_concludaturque_an_usu_vidit_nominati_complectitur_ex._Pri_mundi_albucius_elaboraret_id._Cu_nam_omnium_audire_necessitatibus._Id_vel_verear_legimus_dissentias_mea_oratio_pet Lorem ipsum dolor sit amet, eu diam scripta facilis usu. Vim
+erat persequeris concludaturque an, usu vidit nominati
+complectitur ex. Pri mundi albucius elaboraret id. Cu nam
+omnium audire necessitatibus.
+
+Id vel verear legimus dissentias, mea oratio pet
+    "
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+
+        />
+</FrameLayout>
